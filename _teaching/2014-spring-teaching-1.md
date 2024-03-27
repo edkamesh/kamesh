@@ -3,7 +3,7 @@ title: "Value Added Deep Learning"
 collection: "Teaching/Course Assistant"
 type: "Undergraduate Course"
 venue: "Sathyabama Institute of Science and Technology"
-date: 2014-01-01
+date: 2023
 location: "Chennai, India"
 ---
 
